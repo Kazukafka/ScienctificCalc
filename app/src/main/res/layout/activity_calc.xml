@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/md_blue_grey_400"
-    tools:context="com.rrsaikat.calc.MainActivity">
+    tools:context="com.rrsaikat.CalcActivity">
 
     <LinearLayout
         android:id="@+id/top_label"
